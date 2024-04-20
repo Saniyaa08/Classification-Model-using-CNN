@@ -1,0 +1,5 @@
+When dealing with two categories that are very similar, such as two similar species of animals, and the initial model is struggling to distinguish between them, a fine-tuned pre-trained model would be a suitable choice.
+
+Fine-tuning involves taking a pre-trained model (such as a convolutional neural network like ResNet, VGG, or Inception) that was trained on a large dataset (e.g., ImageNet) and then fine-tuning it on a smaller dataset containing the specific classes of interest (e.g., the two similar species of animals).
+
+By fine-tuning a pre-trained model, you can leverage the features learned from the larger dataset while adapting the model to better differentiate between the specific classes of interest. This approach often leads to better performance, especially when dealing with limited data or similar classes where subtle differences need to be captured.
