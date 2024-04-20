@@ -8,7 +8,7 @@ This project appears to be a deep learning application focused on image classifi
 
 4. Model Evaluation: After training, the model is evaluated on the test data to assess its accuracy.
 
-5.Making Predictions: Individual images from the test dataset are selected for making predictions. The model predicts the class label for each image, and the predicted class is displayed along with the true class label.
+5. Making Predictions: Individual images from the test dataset are selected for making predictions. The model predicts the class label for each image, and the predicted class is displayed along with the true class label.
 
 6. Image Visualization: The project includes functions to visualize images along with their true and predicted labels. Matplotlib is used to display images and labels.
 
